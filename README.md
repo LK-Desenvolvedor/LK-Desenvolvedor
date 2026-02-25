@@ -42,7 +42,9 @@ Me chamo Luan Monteiro, sou graduado em Engenharia de Software (2025) e atuo com
 ##
   
 <div>
+  
   ## Conecte-se comigo
+  
   <a href="https://instagram.com/lk.desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: lk.desenvolvedor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luan-monteiro-da-silva-3925082a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
