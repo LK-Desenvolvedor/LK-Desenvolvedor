@@ -1,4 +1,10 @@
-## Olá, sou LK.Desenvolvedor 👋
+## Olá, sou 👨🏾‍💻 LK.Desenvolvedor
+
+Me chamo Luan Monteiro, sou graduado em Engenharia de Software (2025) e atuo como Desenvolvedor Full Stack. Trabalhei na Libre Soluções, em Maricá, onde participei do desenvolvimento no sistema web de gestão pública E-Cidade. Também fui professor de Programação e Informática na START Profissionalizantes (2023–2024), ministrando conteúdos de lógica de programação e desenvolvimento.
+Conecte-se comigo no LinkedIn: linkedin.com/in/luan-monteiro-da-silva-3925082a8/
+
+##
+
 
 - 📫 Contate-me por: lk.desenvolvedor@gmail.com
 - 😄 Pronomes: Ele/Dele.
@@ -11,6 +17,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
