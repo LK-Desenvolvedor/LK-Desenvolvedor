@@ -6,4 +6,3 @@
 - 🌱 Eu estou estudando arquitetura de Software.
 - 👯 Procuro colaborações em projetos diversos.
 - 💬 Me pergunte sobre API's
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
